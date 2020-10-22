@@ -1,0 +1,13 @@
+C:\Users\Luis\C#\Multiple_Greetings\bin\Debug\netcoreapp3.1\Multiple_Greetings.exe
+C:\Users\Luis\C#\Multiple_Greetings\bin\Debug\netcoreapp3.1\Multiple_Greetings.deps.json
+C:\Users\Luis\C#\Multiple_Greetings\bin\Debug\netcoreapp3.1\Multiple_Greetings.runtimeconfig.json
+C:\Users\Luis\C#\Multiple_Greetings\bin\Debug\netcoreapp3.1\Multiple_Greetings.runtimeconfig.dev.json
+C:\Users\Luis\C#\Multiple_Greetings\bin\Debug\netcoreapp3.1\Multiple_Greetings.dll
+C:\Users\Luis\C#\Multiple_Greetings\bin\Debug\netcoreapp3.1\Multiple_Greetings.pdb
+C:\Users\Luis\C#\Multiple_Greetings\obj\Debug\netcoreapp3.1\Multiple_Greetings.csprojAssemblyReference.cache
+C:\Users\Luis\C#\Multiple_Greetings\obj\Debug\netcoreapp3.1\Multiple_Greetings.AssemblyInfoInputs.cache
+C:\Users\Luis\C#\Multiple_Greetings\obj\Debug\netcoreapp3.1\Multiple_Greetings.AssemblyInfo.cs
+C:\Users\Luis\C#\Multiple_Greetings\obj\Debug\netcoreapp3.1\Multiple_Greetings.csproj.CoreCompileInputs.cache
+C:\Users\Luis\C#\Multiple_Greetings\obj\Debug\netcoreapp3.1\Multiple_Greetings.dll
+C:\Users\Luis\C#\Multiple_Greetings\obj\Debug\netcoreapp3.1\Multiple_Greetings.pdb
+C:\Users\Luis\C#\Multiple_Greetings\obj\Debug\netcoreapp3.1\Multiple_Greetings.genruntimeconfig.cache
